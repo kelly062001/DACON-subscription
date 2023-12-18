@@ -12,7 +12,7 @@ https://dacon.io/competitions/official/236179/overview/description
 <img width="904" alt="image" src="https://github.com/kelly062001/DACON-subscription/assets/121388824/7c214b3a-f727-45df-88b8-a603c7b77c0a">
 
 
-## 내용
+## 내용 (evaluation metric : f1_score)
 
 |File_name|MODEL |validation set|test set|제출(public score)
 |:---:|:------:|:--------------:|:--------:|:-----------------:|
